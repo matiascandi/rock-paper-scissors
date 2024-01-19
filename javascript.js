@@ -43,5 +43,3 @@ function game(){
     }
     return "invalid";
 }
-
-game();
